@@ -1,5 +1,0 @@
-{
-  "name": "taskmanagement",
-  "description": "A mobile-first production task management system allowing admins to assign work and employees to update status, featuring AI-assisted task refinement.",
-  "requestFramePermissions": []
-}
